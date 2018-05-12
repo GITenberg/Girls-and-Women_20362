@@ -1,0 +1,30 @@
+_repo: Girls-and-Women_20362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paine, Harriet E. (Harriet Eliza)
+    aliases:
+    - Chester, Eliza
+    - Paine, Harriet Eliza
+    birthdate: 1845
+    deathdate: 1910
+    gutenberg_agent_id: '9247'
+    url: http://www.gutenberg.org/2009/agents/9247
+description: ''
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Conduct of life'
+- !lcsh 'Young women'
+- !lcc 'HQ'
+title: Girls and Women
+url: http://www.gutenberg.org/ebooks/20362
